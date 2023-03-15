@@ -8,7 +8,7 @@ export default function Markdown({ content }) {
 
   return (
     <div
-      className='processed flex flex-col'
+      className='processed flex flex-col overflow-hidden px-1'
       dangerouslySetInnerHTML={{ __html: processed }}
     ></div>
   )
