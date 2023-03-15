@@ -8,8 +8,8 @@ const App = () => {
     <div class='font-roboto'>
       <Navbar />
       <div class='grid grid-cols-[1fr_1px_1.5fr]'>
-        <UserInput setContent={setContent} />
-        <div class='w-[1px] h-full bg-black' />
+        <UserInput />
+        <div class='h-full w-[1px] bg-black' />
         <Markdown />
       </div>
       <Footer />
