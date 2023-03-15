@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
-    <div class='bg-slate-300'>
-      <h1 class='font-semibold text-2xl'>
+    <div className='bg-slate-300'>
+      <h1 className='text-2xl font-semibold'>
         REALISMD - real time markdown processor
       </h1>
     </div>

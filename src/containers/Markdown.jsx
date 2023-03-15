@@ -1,7 +1,7 @@
-export default function Markdown() {
+export default function Markdown({ content }) {
   return (
     <div>
-      <h1>markdown</h1>
+      <p>{content}</p>
     </div>
   )
 }
