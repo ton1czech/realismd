@@ -1,6 +1,6 @@
 <div align='center'>
     <h1><b>🚀 REALISMD 🚀</b></h1>
-    <img src='https://em-content.zobj.net/thumbs/120/twitter/322/gear_2699-fe0f.png' width='250' height='250' />
+    <img src='./docs/icon.png' width='250' height='250' />
     <p>real-time Markdown processing app</p>
 </div>
 
